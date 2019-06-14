@@ -1,0 +1,69 @@
+body{
+	font-size:30px;
+	color:white;
+	background-image:url(ass.jpg);
+	background-repeat:no-repeat;
+   background-size:cover;
+}
+img{
+	position: absolute;
+    top: 8px;
+    right: 40px;
+	width:10%;
+	border-radius:20%;
+}
+ul{
+	list-style:none;
+	padding:10px;
+	margin:0px;
+	letter-spacing:1px;
+
+}
+ul li{
+	line-height:30px;
+	text-align:right;
+	float:left;
+	width:250px;
+	height:40px;
+	right:40px;
+
+	}
+
+ul li a{
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+
+
+}
+ul li:hover ul li {
+	display: block;
+}
+h1{
+	font-family:Papyrus, fantasy;
+	text-align:center;
+	font-size:80px;
+}
+.reg{
+	text-align:center;
+	border-style:solid;
+	width:18%;
+	margin:auto;
+	background-color:A55746;
+	
+	
+	
+}
+a {
+    color:white;
+    text-decoration: none;
+}
+.text-box{
+	margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60);
+  color:black;
+}
